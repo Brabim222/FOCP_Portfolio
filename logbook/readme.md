@@ -1,0 +1,2 @@
+This logbook file contains all the Exercise done from 1 to 8
+and a flask exercise which contains style folder which has style.css templates folder including html file and app.py file including the main python file
